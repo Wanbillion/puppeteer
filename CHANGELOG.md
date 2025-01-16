@@ -2,6 +2,26 @@
 
 Combined changelog for puppeteer and puppeteer-core.
 
+## [24.1.1](https://github.com/puppeteer/puppeteer/compare/puppeteer-v24.1.0...puppeteer-v24.1.1) (2025-01-16)
+
+
+### Miscellaneous Chores
+
+* **puppeteer:** Synchronize puppeteer versions
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * puppeteer-core bumped from 24.1.0 to 24.1.1
+
+
+### Bug Fixes
+
+* **webdriver:** use correct units for format pdf option ([#13516](https://github.com/puppeteer/puppeteer/issues/13516)) ([c764f82](https://github.com/puppeteer/puppeteer/commit/c764f82c7435bdc10e6a9007892ab8dba111d21c))
+
+
 ## [24.1.0](https://github.com/puppeteer/puppeteer/compare/puppeteer-v24.0.0...puppeteer-v24.1.0) (2025-01-15)
 
 
